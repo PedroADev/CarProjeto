@@ -2,5 +2,13 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"Android",
+		"IOS",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor"
+	]
 }
